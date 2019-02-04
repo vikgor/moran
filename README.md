@@ -1,5 +1,5 @@
 # Moran theme for Bludit
-Moran is a simple and minimalistic theme bas on [Moran](https://github.com/echenley/moran) theme for Ghost. 
+Moran is a simple and minimalistic theme based on [Moran](https://github.com/echenley/moran) theme for Ghost. 
 
 ## Features
 - Cover image support
